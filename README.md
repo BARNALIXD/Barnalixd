@@ -1,6 +1,6 @@
 
 
-![yogocat_animation](https://github.com/BARNALIXD/Barnalixd/assets/171536118/f2b74d3f-bfa9-49d0-a683-b4227a79a4f0)
+
 # 💫 About Me:
 🔭 I’m currently working on Frontend projects<br>
 🌱 I’m currently learning Reactjs<br>
