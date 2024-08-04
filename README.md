@@ -8,7 +8,7 @@
 👯 I’m looking to collaborate on ...frontend projects<br>
 📫 How to reach me: dasbarnali690@gmail.com / dasbarnali690@gcekbpatna.ac.in<br>
 😄 Pronouns: SHE/HER <br>
-⚡ Fun fact: ...everything is fun infact funny to be precise :D <br>
+⚡ Fun fact: OVERCOMING IMPOSTER SYNDROME <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barnalixd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/barnalixd) 
