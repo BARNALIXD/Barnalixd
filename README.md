@@ -1,8 +1,8 @@
 
-![Uploading MishManners%20Room%20animated.gif…]()
 
 
-# HI 🐣, I'm BARNALI DAS 
+# HI 🐣, I'm BARNALI DAS ![MishManners%20Room%20animated](https://github.com/user-attachments/assets/5860449a-9808-4345-a35f-b59bb604b194)
+
 I am a COMPUTER SCIENCE student.<br>
 🔭 I’m currently working on Front-end projects<br>
 🌱 I’m currently learning Reactjs<br>
