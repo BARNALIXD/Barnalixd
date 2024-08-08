@@ -2,7 +2,7 @@
 
 
 # HI 🐣, I'm BARNALI DAS 
-I am a COMPUTER SCIENCE student.
+I am a COMPUTER SCIENCE student.<br>
 🔭 I’m currently working on Front-end projects<br>
 🌱 I’m currently learning Reactjs<br>
 💬 Ask me about HTML ,CSS , Javascript, Reactjs<br>
