@@ -1,7 +1,7 @@
 
 
 
-# 💫 About Me:
+# HI 🐣, I'm BARNALI DAS
 🔭 I’m currently working on Frontend projects<br>
 🌱 I’m currently learning Reactjs<br>
 💬 Ask me about HTML ,CSS , Javascript, Reactjs<br>
