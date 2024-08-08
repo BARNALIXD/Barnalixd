@@ -2,9 +2,10 @@
 
 
 # HI 🐣, I'm BARNALI DAS ![MishManners%20Room%20animated](https://github.com/user-attachments/assets/5860449a-9808-4345-a35f-b59bb604b194)
+![images](https://github.com/user-attachments/assets/854bdada-bbfa-4aab-9d9b-1f521fcc61fc)
 
 I am a COMPUTER SCIENCE student.<br>
-🔭 I’m currently working on Front-end projects<br>
+🔭 I’m currently working on Front-end projects<br>   
 🌱 I’m currently learning Reactjs<br>
 💬 Ask me about HTML ,CSS , Javascript, Reactjs<br>
 👯 I’m looking to collaborate on ...Developement projects<br>
@@ -23,13 +24,15 @@ I am a COMPUTER SCIENCE student.<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=barnalixd&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=barnalixd&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=barnalixd&icon=9&color=10)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
