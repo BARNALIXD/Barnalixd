@@ -1,17 +1,17 @@
 
 
 
-# HI 🐣, I'm BARNALI DAS ![MishManners%20Room%20animated](https://github.com/user-attachments/assets/5860449a-9808-4345-a35f-b59bb604b194)
+# HI 🐣🪬, I'm BARNALI DAS ![MishManners%20Room%20animated](https://github.com/user-attachments/assets/5860449a-9808-4345-a35f-b59bb604b194)
 
 
 I am a COMPUTER SCIENCE student🚀.<br>
-🔭 I’m currently working on Front-end projects<br>   
-🌱 I’m currently learning Reactjs<br>
+👾 I’m currently working on Front-end projects<br>   
+🦄 I’m currently learning Reactjs<br>
 💬 Ask me about HTML ,CSS , Javascript, Reactjs<br>
 👯 I’m looking to collaborate on ...Developement projects<br>
 📫 How to reach me: dasbarnali690@gmail.com / dasbarnali690@gcekbpatna.ac.in<br>
-😄 Pronouns: SHE/HER <br>
-⚡ Fun fact: OVERCOMING IMPOSTER SYNDROME <br>
+🐢 Pronouns: SHE/HER <br>
+🔮 Fun fact: OVERCOMING IMPOSTER SYNDROME <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barnalixd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/barnalixd) 
