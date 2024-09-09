@@ -11,7 +11,7 @@ I am a COMPUTER SCIENCE student🚀.<br>
 🦄 I’m currently learning Reactjs<br>
 💬 Ask me about HTML ,CSS , Javascript, Reactjs<br>
 👯 I’m looking to collaborate on ...Developement projects<br>
-📫 How to reach me: dasbarnali690@gmail.com / dasbarnali690@gcekbpatna.ac.in<br>
+📫 How to reach me: barnalixd@gmail.com / dasbarnali690@gcekbpatna.ac.in<br>
 🐢 Pronouns: SHE/HER <br>
 🔮 Fun fact: OVERCOMING IMPOSTER SYNDROME <br>
 
