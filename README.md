@@ -7,8 +7,8 @@
 
 
 I am a COMPUTER SCIENCE student🚀.<br>
-👾 I’m currently working on Front-end projects<br>   
-🦄 I’m currently learning Reactjs<br>
+👾 I’m currently working on Full-stack projects<br>   
+🦄 I’m currently learning Reactjs and Nextjs<br>
 💬 Ask me about HTML ,CSS , Javascript, Reactjs<br>
 👯 I’m looking to collaborate on ...Developement projects<br>
 📫 How to reach me: barnalixd@gmail.com / dasbarnali690@gcekbpatna.ac.in<br>
