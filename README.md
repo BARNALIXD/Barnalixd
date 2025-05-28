@@ -1,8 +1,7 @@
 
 
 
-# HI 🐣🪬, I'm BARNALI DAS ![MishManners%20Room%20animated](https://github.com/user-attachments/assets/5860449a-9808-4345-a35f-b59bb604b194)
-
+# HI 🐣🪬, I'm BARNALI DAS https://in.pinterest.com/pin/57632070226811955/
 
 
 
