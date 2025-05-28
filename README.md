@@ -1,8 +1,8 @@
 
 
 
-# HI 🐣🪬, I'm BARNALI DAS https://in.pinterest.com/pin/57632070226811955/
-
+# HI 🐣🪬, I'm BARNALI DAS 
+https://in.pinterest.com/pin/57632070226811955/
 
 
 I am a COMPUTER SCIENCE student🚀.<br>
