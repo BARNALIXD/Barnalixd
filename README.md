@@ -5,15 +5,7 @@
 # HI 🐣🪬, I'm BARNALI DAS 
 
 
-
-I am a COMPUTER SCIENCE student🚀.<br>
-👾 I’m currently working on Full-stack projects<br>   
-🦄 I’m currently learning Reactjs and Nextjs<br>
-💬 Ask me about HTML ,CSS , Javascript, Reactjs<br>
-👯 I’m looking to collaborate on ...Developement projects<br>
-📫 How to reach me: barnalixd28@gmail.com<br>
-🐢 Pronouns: SHE/HER <br>
-🔮 Fun fact: OVERCOMING IMPOSTER SYNDROME <br>
+Enthusiastic Computer Science graduate with hands-on experience in full-stack development and strong problem-solving skills demonstrated through competitive programming. Passionate about building scalable web applications, eager to contribute to innovative projects, and quick to adapt to new technologies. Currently expanding expertise in React.js and Next.js to build modern, performant web interfaces. Proficient in HTML, CSS, JavaScript, and backend technologies including Node.js and Express.js. Dedicated to collaborative development and continuous learning. Reachable at barnalixd28@gmail.com | Pronouns: She/Her.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barnalixd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/barnalixd) 
