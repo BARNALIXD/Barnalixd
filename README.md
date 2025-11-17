@@ -10,19 +10,6 @@ Pronouns: She/Her
 
 ---
 
-### 📧 Contact
-
-- **Email:** barnalixd28@gmail.com
-- **Location:** Bangalore, India
-- **GitHub:** [your-github-url]
-- **LinkedIn:** [your-linkedin-url]
-- **LeetCode:** [your-leetcode-url]
-- **Twitter/X:** [your-twitter-url]
-
----
-
-
-
 ### 📊 GitHub Stats
 
 <!-- Add your GitHub stats cards and repo analytics below -->
