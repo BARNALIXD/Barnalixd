@@ -8,14 +8,3 @@ Enthusiastic Computer Science graduate with hands-on experience in full-stack de
 
 Pronouns: She/Her
 
----
-
-### 📊 GitHub Stats
-
-<!-- Add your GitHub stats cards and repo analytics below -->
-
-![GitHub Stats](your-github-stats-image-url)
-![Top Contributed Repo](your-top-contributed-repo-image-url)
-[!](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
