@@ -4,7 +4,7 @@
 
 # HI , I'm BARNALI DAS
 
- an enthusiastic Computer Science graduate currently working at Foxspan Labs. I have hands-on experience in full-stack development and a strong foundation in competitive programming. Passionate about building scalable web applications and eager to contribute to innovative projects. A quick learner, adaptable to new technologies and collaborative development environments. Currently expanding my expertise in React.js and Next.js to build high-performance web interfaces.
+ an enthusiastic Computer Science graduate. I have hands-on experience in full-stack development and a strong foundation in competitive programming. Passionate about building scalable web applications and eager to contribute to innovative projects. A quick learner, adaptable to new technologies and collaborative development environments. Currently expanding my expertise in React.js and Next.js to build high-performance web interfaces.
 Pronouns: She/Her
 
 
